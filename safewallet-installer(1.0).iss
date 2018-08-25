@@ -1,6 +1,6 @@
 
 #define MyAppName "Safewallet"
-#define MyAppVersion "0.027y"
+#define MyAppVersion "VERSION_NR" 
 ; change with every new release
 #define MyAppPublisher "Safecoin"
 #define MyAppURL "https://www.safecoin.org/"
@@ -24,7 +24,7 @@ AllowNoIcons=yes
 LicenseFile=
 InfoBeforeFile=
 InfoAfterFile=
-OutputDir=C:\safecoinwalletinstaller\027y
+OutputDir=OUTPUT_DIRECTORY
 ; set an output directory
 OutputBaseFilename=Safewallet-Setup
 SetupIconFile=APPICONFOLDER\safewallet_app_icon.ico
